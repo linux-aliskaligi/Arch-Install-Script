@@ -2,7 +2,7 @@
 
 Bu script Arch Linux kurulum scriptidir. Scripti kullanarak kolayca Arch kurabilirsiniz.
 
-## NOT:(Önemli)
+## NOT: (Önemli)
 OLABİLECEK VERİ KAYBINDAN VE BİR SORUNDAN BEN SORUMLU DEĞİLİM! (I AM NOT RESPONSIBLE FOR ANY DATA LOSS AND A PROBLEM!)
 
 ## Yapılacaklar
